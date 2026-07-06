@@ -1,0 +1,109 @@
+# Soccer Next Level — Generative Engine Optimization Map
+
+> An online store specializing in performance-enhancing products for football players. The brand focuses on helping athletes improve their game through dedicated sports products, targeting football players who are serious about elevating their performance on the field.
+
+---
+
+## Pages
+
+### בית
+https://soccer-next-level-12c50e77.zappy5.app
+חנות הספורט אונליין שתשדרג את הביצועים שלך על המגרש. מוצרים ייעודיים לשחקני כדורגל שרוצים לנצח. היכנס עכשיו וגלה איך להגיע לרמה הבאה!
+
+### גישת ביצועים
+https://soccer-next-level-12c50e77.zappy5.app/performance-approach
+גלו את גישת הביצועים המהפכנית שתקפיץ את יכולות הכדורגל שלכם קדימה. כלים וטיפים מקצועיים באתר sports e commerce מוביל. התחילו לשדרג עכשיו!
+
+### לאקדמיות ומאמנים
+https://soccer-next-level-12c50e77.zappy5.app/academies-coaches
+פתרונות מותאמים לאקדמיות ומאמני כדורגל באתר sports ecommerce websites. ציוד מקצועי שיקפיץ את הקבוצה לרמה הבאה. צרו שותפות מנצחת איתנו!
+
+### אודות
+https://soccer-next-level-12c50e77.zappy5.app/about
+הסיפור מאחורי Soccer Next Level, חנות sports e commerce שמוקדשת להפוך שחקני כדורגל לאלופים. למה אנחנו? גלו את התשוקה שמניעה אותנו!
+
+### צור קשר
+https://soccer-next-level-12c50e77.zappy5.app/contact
+רוצים לשדרג את המשחק? צרו קשר עם Soccer Next Level, אתר sports e commerce website לכדורגלנים. אנחנו כאן לכל שאלה – שלחו הודעה ונתחיל!
+
+### Products
+https://soccer-next-level-12c50e77.zappy5.app/products
+המוצרים שלנו - Soccer Next Level
+
+### Cart
+https://soccer-next-level-12c50e77.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://soccer-next-level-12c50e77.zappy5.app/checkout
+תשלום
+
+### Login
+https://soccer-next-level-12c50e77.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://soccer-next-level-12c50e77.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://soccer-next-level-12c50e77.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://soccer-next-level-12c50e77.zappy5.app/product/:slug
+פרטי המוצר - Soccer Next Level
+
+### Category
+https://soccer-next-level-12c50e77.zappy5.app/category/:slug
+מוצרים - Soccer Next Level
+
+### תודה - Soccer Next Level
+https://soccer-next-level-12c50e77.zappy5.app/thank-you
+Soccer Next Level - תודה - Soccer Next Level
+
+## Legal & Policy
+
+### Privacy Policy
+https://soccer-next-level-12c50e77.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://soccer-next-level-12c50e77.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://soccer-next-level-12c50e77.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Soccer Next Level
+An online store specializing in performance-enhancing products for football players. The brand focuses on helping athletes improve their game through dedicated sports products, targeting football players who are serious about elevating their performance on the field.
+
+## Target Audience
+- שחקני כדורגל המעוניינים לשפר את הביצועים שלהם
+- שחקני כדורגל לשיפור ביצועים
+- אקדמיות נוער לכדורגל
+- מאמני כושר אישיים לכדורגל
+
+## Industry
+Sports E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://soccer-next-level-12c50e77.zappy5.app/sitemap.xml
+- Robots: https://soccer-next-level-12c50e77.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://soccer-next-level-12c50e77.zappy5.app/llms-full.txt
+- Products (JSON): https://soccer-next-level-12c50e77.zappy5.app/products.json
+- Products (Google Merchant RSS): https://soccer-next-level-12c50e77.zappy5.app/product-feed.xml
