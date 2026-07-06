@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://soccer-next-level-12c50e77.zappy5.app
+https://example.com
 חנות הספורט אונליין שתשדרג את הביצועים שלך על המגרש. מוצרים ייעודיים לשחקני כדורגל שרוצים לנצח. היכנס עכשיו וגלה איך להגיע לרמה הבאה!
 
 ### גישת ביצועים
-https://soccer-next-level-12c50e77.zappy5.app/performance-approach
+https://example.com/performance-approach
 גלו את גישת הביצועים המהפכנית שתקפיץ את יכולות הכדורגל שלכם קדימה. כלים וטיפים מקצועיים באתר sports e commerce מוביל. התחילו לשדרג עכשיו!
 
 ### לאקדמיות ומאמנים
-https://soccer-next-level-12c50e77.zappy5.app/academies-coaches
+https://example.com/academies-coaches
 פתרונות מותאמים לאקדמיות ומאמני כדורגל באתר sports ecommerce websites. ציוד מקצועי שיקפיץ את הקבוצה לרמה הבאה. צרו שותפות מנצחת איתנו!
 
 ### אודות
-https://soccer-next-level-12c50e77.zappy5.app/about
+https://example.com/about
 הסיפור מאחורי Soccer Next Level, חנות sports e commerce שמוקדשת להפוך שחקני כדורגל לאלופים. למה אנחנו? גלו את התשוקה שמניעה אותנו!
 
 ### צור קשר
-https://soccer-next-level-12c50e77.zappy5.app/contact
+https://example.com/contact
 רוצים לשדרג את המשחק? צרו קשר עם Soccer Next Level, אתר sports e commerce website לכדורגלנים. אנחנו כאן לכל שאלה – שלחו הודעה ונתחיל!
 
 ### Products
-https://soccer-next-level-12c50e77.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Soccer Next Level
 
 ### Cart
-https://soccer-next-level-12c50e77.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://soccer-next-level-12c50e77.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://soccer-next-level-12c50e77.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://soccer-next-level-12c50e77.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://soccer-next-level-12c50e77.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://soccer-next-level-12c50e77.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Soccer Next Level
 
 ### Category
-https://soccer-next-level-12c50e77.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Soccer Next Level
 
 ### תודה - Soccer Next Level
-https://soccer-next-level-12c50e77.zappy5.app/thank-you
+https://example.com/thank-you
 Soccer Next Level - תודה - Soccer Next Level
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://soccer-next-level-12c50e77.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://soccer-next-level-12c50e77.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://soccer-next-level-12c50e77.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Sports E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://soccer-next-level-12c50e77.zappy5.app/sitemap.xml
-- Robots: https://soccer-next-level-12c50e77.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://soccer-next-level-12c50e77.zappy5.app/llms-full.txt
-- Products (JSON): https://soccer-next-level-12c50e77.zappy5.app/products.json
-- Products (Google Merchant RSS): https://soccer-next-level-12c50e77.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
