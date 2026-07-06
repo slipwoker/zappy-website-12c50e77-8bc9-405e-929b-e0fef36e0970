@@ -4,6 +4,18 @@
     <title>Soccer Next Level</title>
     <link>https://example.com</link>
     <description>Product feed for Soccer Next Level</description>
-    <lastBuildDate>Mon, 06 Jul 2026 09:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:26:31 GMT</lastBuildDate>
+    <item>
+      <g:id>dcf08c0c-115a-4f75-a4d1-709f8935ca41</g:id>
+      <g:title>מגני רגליים </g:title>
+      <g:description>מגני רגליים 🦵</g:description>
+      <g:link>https://example.com/product/mgny-rglyym-8i2kw0</g:link>
+      <g:image_link>https://example.com/assets/product-1783329391923-5a4b0q.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Soccer Next Level</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

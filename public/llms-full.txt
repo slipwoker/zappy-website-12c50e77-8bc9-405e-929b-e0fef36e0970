@@ -5976,3 +5976,14 @@ Description: Soccer Next Level - תודה - Soccer Next Level
 
 ---
 
+## Product Catalog
+
+### מגני רגליים 
+URL: https://example.com/product/mgny-rglyym-8i2kw0
+Price: 9.90 ILS
+Availability: In stock
+
+מגנים
+
+---
+
